@@ -9,3 +9,7 @@ by deleting the training loop in the file, running the GAN_Model.py file and the
 in Google Drive. 
 
 Once you have a working model, all experiment and test files can be run, as they operate with the internal methods defined in the Map Generator, Fluid Simulation and Gan Model files. 
+
+Preliminary results can be seen here
+
+![alt text](https://github.com/[Stivizea]/[Real-Time-Approximation-of-Hydraulic-Erosion-with-CGANS]/blob/[1]/Figure_Recursive_Error_Analysis.png?raw=true)
