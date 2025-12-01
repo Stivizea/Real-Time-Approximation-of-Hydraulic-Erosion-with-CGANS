@@ -12,4 +12,4 @@ Once you have a working model, all experiment and test files can be run, as they
 
 Preliminary results can be seen here
 
-![alt text]([https://github.com/[Stivizea]/[Real-Time-Approximation-of-Hydraulic-Erosion-with-CGANS]/blob/[main]/Figure_Recursive_Error_Analysis.png?raw=true](https://github.com/Stivizea/Real-Time-Approximation-of-Hydraulic-Erosion-with-CGANS/blob/main/Figure_Recursive_Error_Analysis.png?raw=true))
+![alt text](https://github.com/[Stivizea]/[Real-Time-Approximation-of-Hydraulic-Erosion-with-CGANS]/blob/[main]/Figure_Recursive_Error_Analysis.png?raw=true](https://github.com/Stivizea/Real-Time-Approximation-of-Hydraulic-Erosion-with-CGANS/blob/main/Figure_Recursive_Error_Analysis.png?raw=true))
