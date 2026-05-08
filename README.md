@@ -1,4 +1,4 @@
-This is the code for the article Real-Time Approximation of Hydraulic Erosion: A Parameter-Conditioned Deep Learning Approach
+This is the code for the article Real-Time Approximation of Hydraulic Erosion: A Parameter-Conditioned Deep Learning Approach, written by me and soon to be published
 To replicate it, you can use the Map_Generator.py file to generate 10.000 prior samples, then, use the Erosion_simulation.py file to erode 
 all these maps with Numba-JIT compilation. This is the pipeline for the procedural generation of the ground-truth pairs. 
 The GAN_Model.py details the architecture and training strategy for the parameter-conditioned cGAN, you can start this file to train the network yourself. 
